@@ -1,4 +1,9 @@
 {
-    "bpit-college-website": "http://www.bpitindia.com/",
-    "scrapping-delay": "15*1000"
+    "bpit-college-host": "http://www.bpitindia.com/",
+    "notice-links": [
+        "http://www.bpitindia.com/important-notices.html",
+        "http://www.bpitindia.com/important-documents.aspx",
+        "http://www.bpitindia.com/important-notice.aspx"
+    ],
+    "scrapping-delay": "15000"
 }
