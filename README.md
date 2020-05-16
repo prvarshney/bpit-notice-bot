@@ -1,2 +1,2 @@
 # BPIT-NoticeBot
-This is an unofficial bot created by student of BPIT to provide updates regarding college notices and various announcements to other students and faculty member through Social Media like instagram &amp; facebook..
+This promotinal bot scrapes my college website (http://www.bpitindia.com) at a frequency of every 15 minutes and checks for new Notices & Announcements. If there's any new Update from my college side, this bot scrapes that from there and post on various social media platform (currently only on Facebook) for better reachment of that among students, faculties and various concerned management authorities. 
